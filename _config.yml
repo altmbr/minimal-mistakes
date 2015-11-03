@@ -21,17 +21,17 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
 
 # Site owner
 owner:
   name: Bryan Altman
-  avatar: bio-photo.jpg
+  avatar: bryanaltman.jpg
   bio: "A curious engineer."
   email: altmbr@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: altmanbryan
   facebook: #username
   google:
     plus: #username
@@ -40,9 +40,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: altmbr
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: #bryanaltman
   xing: #username
   instagram: #username
   lastfm: #username
