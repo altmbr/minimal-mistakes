@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: page
+title: "About Bryan Altman"
 excerpt: "Welcome to Bryan Altman's personal page'."
 tags: [Bryan, Altman, McGill, Next 36, Entrepreneur, McKinsey]
 image:
